@@ -5,5 +5,5 @@ Loan Calculator Application has the features to enter the principal amount, year
 </p>
 
 <p align="center">
-  <img alt="Task List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Loan%20Calculator%20Application/Loan-Calculator-Application-Demo.gif">
+  <img alt="Loan Calculator Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Loan%20Calculator%20Application/Loan-Calculator-Application-Demo.gif">
 </p>
