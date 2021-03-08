@@ -19,5 +19,5 @@ In this application, the minimum is set to 1 and maximum to 20. The number of gu
 </p>
 
 <p align="center">
-  <img alt="Task List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Number%20Guesser%20Application/Number-Guesser-Application-Demo.gif">
+  <img alt="Number Guesser Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Number%20Guesser%20Application/Number-Guesser-Application-Demo.gif">
 </p>
