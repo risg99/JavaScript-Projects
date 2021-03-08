@@ -6,5 +6,5 @@ Book List Application enables the user to a new book with the title, author name
 </p>
 
 <p align="center">
-  <img alt="Task List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Book%20List%20Application/Book-List-Application-Demo.gif">
+  <img alt="Book List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Book%20List%20Application/Book-List-Application-Demo.gif">
 </p>
