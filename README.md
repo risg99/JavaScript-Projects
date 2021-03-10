@@ -19,7 +19,7 @@ Loan Calculator Application has the features to enter the principal amount, year
 </p>
 
 <p align="center">
-  <img alt="Task List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Loan%20Calculator%20Application/Loan-Calculator-Application-Demo.gif">
+  <img alt="Loan Calculator Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Loan%20Calculator%20Application/Loan-Calculator-Application-Demo.gif">
 </p>
 
 ### Project 3: [Number Guesser Application](#https://github.com/risg99/JavaScript-Projects/tree/main/Number%20Guesser%20Application)
@@ -43,7 +43,7 @@ In this application, the minimum is set to 1 and maximum to 20. The number of gu
 </p>
 
 <p align="center">
-  <img alt="Task List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Number%20Guesser%20Application/Number-Guesser-Application-Demo.gif">
+  <img alt="Number Guesser Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Number%20Guesser%20Application/Number-Guesser-Application-Demo.gif">
 </p>
 
 ### Project 4: [Book List Application](#https://github.com/risg99/JavaScript-Projects/tree/main/Book%20List%20Application)
@@ -54,5 +54,51 @@ Book List Application enables the user to a new book with the title, author name
 </p>
 
 <p align="center">
-  <img alt="Task List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Book%20List%20Application/Book-List-Application-Demo.gif">
+  <img alt="Book List Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Book%20List%20Application/Book-List-Application-Demo.gif">
+</p>
+
+### Project 5: [Chuck Norris Joke Generator](#https://github.com/risg99/JavaScript-Projects/tree/main/Chuck%20Norris%20Joke%20Generator)
+
+<p align="justify">
+Chuck Norris Joke Generator takes in a number from the user as an input and outputs that number of jokes randomly. This was a basic application created to understand the concept of API endpoints and calls in Javascript. The concept of creating an xmlhttp object, creating a connecting, sending/ receiving data is clearly understood by this project.
+  <br> Have a look at the complete application demo below:
+</p>
+
+<p align="center">
+  <img alt="Chuck Norris Joke Generator Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Chuck%20Norris%20Joke%20Generator/Chuck-Norris-Joke-Generator-Demo.gif">
+</p>
+
+### Project 6: [User Form Validation](#https://github.com/risg99/JavaScript-Projects/tree/main/User%20Form)
+
+<p align="justify">
+User Form Validation is a simple form page that inputs user details of Name, Email-id, Zipcode and PhoneNumber with each of the fields having some restrictions. The form validation was an implementation of regular expressions in JavaScript. 
+  
+<ul> 
+  <li> Name can contain 2-10 alphabets.</li>
+  
+  <li> Zipcode contains 6 digits with a dash like xxx-xxx.</li>
+  
+  <li> Email id contains alphabets, digits or special symbols like underscore, period and dash, followed by @ and another set of alphabets, digits or special symbols, which is followed by a period and then again with 2-5 alphabets. </li>
+  
+  <li> Phone Number can be entered in a range of 10 digits in the format of xxx-xxx-xxxx with either spaces, dashes or periods in between the groups of digits.</li>
+</ul>
+If the user enters details that don't satisfy the requirements, an alert message is shown.
+  
+  <br> Have a look at the complete application demo below:
+</p>
+
+<p align="center">
+  <img alt="User Form Validation Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/User%20Form/User-form-Demo.gif">
+</p>
+
+### Project 7: [Github Finder Application](#https://github.com/risg99/JavaScript-Projects/tree/main/Github%20Finder%20Application)
+
+<p align="justify">
+Github Finder Application enables to reach out to the Github API and extract a user, with his github profile details like company, website, followers, following, repositories, etc. This project applies all the core fundamentals of Javascripts like ES6 Classes, Arrow Functions, async and await, API fetch - promises, events and many more. The user can search for a specific username in the search user bar of the application, if no such username exists an error message is shown in the UI, else the user profile is displayed. 
+  
+  <br> Have a look at the complete application demo below:
+</p>
+
+<p align="center">
+  <img alt="Github Finder Application Demo" src="https://github.com/risg99/JavaScript-Projects/blob/main/Github%20Finder%20Application/GitHub-Finder-Application-Demo.gif">
 </p>
